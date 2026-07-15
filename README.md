@@ -1,6 +1,6 @@
 # Framework d'Audit IT pour Établissements Hôteliers
 
-**Version 1.0 — Juillet 2026**
+**Version 1.0 - Juillet 2026**
 Un outil gratuit et open source pour auditer l'infrastructure IT d'un hôtel indépendant ou d'un petit groupe hôtelier (environ 30 à 100 chambres) : réseau, paiement, PMS, données clients, sécurité physique, continuité d'activité.
 
 Développé et maintenu par **Citadel IT Solutions** (Lomé, Togo).
@@ -45,7 +45,7 @@ Cet outil ne remplace pas un audit PCI-DSS officiel réalisé par un QSA certifi
 
 ## Contribuer / Signaler un problème
 
-Ce framework est amené à évoluer avec les retours du terrain. Toute suggestion, correction ou retour d'expérience d'audit réel est bienvenu — contactez Citadel IT Solutions.
+Ce framework est amené à évoluer avec les retours du terrain. Toute suggestion, correction ou retour d'expérience d'audit réel est bienvenu - contactez Citadel IT Solutions.
 
 ## Historique des versions
 
