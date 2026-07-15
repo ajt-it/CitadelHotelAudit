@@ -1,0 +1,18 @@
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Fichiers temporaires Office
+~$*
+*.tmp
+
+# ⚠️ Copies d'audits réels remplis (NE JAMAIS committer de données client)
+# Exemple de convention à adopter pour vos audits terrain :
+audits-clients/
+*-rempli.xlsx
+*-confidentiel*
+
+# Environnements locaux éventuels
+.vscode/
+.idea/
