@@ -32,7 +32,7 @@ La grande majorité des hôtels 3-4 étoiles n'ont ni le budget ni le besoin d'u
 
 1. Lire le Guide méthodologique (section 2 : "Comment utiliser ce document")
 2. Imprimer la Fiche de terrain et la faire remplir sur site par l'équipe technique
-3. Reporter les résultats dans la Grille Excel — le score et le taux de conformité par domaine se calculent automatiquement
+3. Reporter les résultats dans la Grille Excel - le score et le taux de conformité par domaine se calculent automatiquement
 4. Restituer les résultats à la direction en priorisant les non-conformités à risque Critique/Élevé
 
 ## Licence
